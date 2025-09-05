@@ -35,5 +35,8 @@
       "password": "mariadb"
     }
   ],
-  "sqltools.useNodeRuntime": true
+  "sqltools.useNodeRuntime": true,
+  "githubPullRequests.ignoredPullRequestBranches": [
+    "main"
+  ]
 }
